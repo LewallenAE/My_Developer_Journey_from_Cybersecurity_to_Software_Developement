@@ -56,5 +56,5 @@ Thanks for following along. If you’re making a similar leap — from cybersecu
 
 This project is licensed for **personal and educational use only**.
 
-See [LICENSE.md](./LICENSE.md) for details.
+See [LICENSE.md](LICENSE.md) for details.
 
